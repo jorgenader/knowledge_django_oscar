@@ -1,7 +1,7 @@
 /* eslint-disable global-require */
 import React from "react";
 
-import {Appear, Deck, Slide, Heading, Link, Text, Image, CodePane, List, ListItem} from "spectacle";
+import {Deck} from "spectacle";
 
 import createTheme from "spectacle/lib/themes/default";
 
